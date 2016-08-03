@@ -225,8 +225,8 @@ Writing data to block 595 at offset 0x4a60000
 Rebooting...
 Restarting system.
 ~~~~
-
-6. If you saw code similar to that, you have successfully imaged your Multitech OCG-D 
+	
+If you saw code similar to that, you have successfully imaged your Multitech OCG-D 
 with Exosite's Open Gateway Engine
 
 # **CONGRATULATIONS**
