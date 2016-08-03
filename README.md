@@ -1,1 +1,1 @@
-# Multitech-OCG-D-Imaging
+Download both **rootfs.jffs2** and **uImage.bin**
