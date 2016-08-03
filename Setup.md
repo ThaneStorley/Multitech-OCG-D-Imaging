@@ -157,12 +157,14 @@ This will complete the process and allow you to start working with your Multitec
 
 1. Make sure the SD card is in the OCG and the OCG is connected in the fasion instructed under the 'Connecting *physically* to your Device' section under *'Connecting to Your Device'*, and your Multitech OCG-D is powered on.
 2. Type this command into your terminal, and again; you might have to type your password.
->`sudo minicom`
+>`sudo minicom`		
+
 3. Log into the CoreCDP     
 **Note:** Log in credientials might varry depending on the distributor you obtained your Multitech OCG-D from, but the base credentials are listed above under the *'Some Things to Know'* section.
 4. Type these 2 commands after being logged in
 >`touch /var/volatile/do_flash_upgrade`     
->`reboot`
+>`reboot`		
+
 5. Upon reboot, you should see something like this:
 ~~~~
 Broadcast message from root (ttyS0) (Tue Nov 15 05:35:42 2011):
